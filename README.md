@@ -1,3 +1,1 @@
-注意： content background 代码更新 需要在chrome://extensions/ 刷新才能生效
-
-
+chrome v3版本插件脚手架，集成了react，antd。
